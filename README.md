@@ -2,6 +2,7 @@
 
 - Free hosting
 https://www.freehosting.com/
+10 Gb
 - Infinity Free
 https://www.infinityfree.com/
 - Cowabi
