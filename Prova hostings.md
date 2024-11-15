@@ -1,3 +1,3 @@
 ### Prova hostings
 
-1- Free hostings
+1 - Free hostings
